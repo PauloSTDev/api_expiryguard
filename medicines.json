@@ -1,0 +1,116 @@
+{
+    "medicines": [
+    {
+      "id": "01",
+      "name": "Aspirina 500g 20 comprimidos",
+      "description": "Aspirina contém a substância ativa ácido acetilsalicílico, que pertence ao grupo de substâncias anti-inflamatórias não-esteroides, com propriedades anti-inflamatória (atua na inflamação), analgésica (atua na dor) e antitérmica (atua na febre)",
+      "betterBefore": "10/08/2025",
+      "price":  "20.0",
+      "quantity": "150"
+    },
+    {
+      "id": "02",
+      "name": "Escitalopram 10mg 30 comprimidos",
+      "description": "É um medicamento da classe dos inibidores seletivos da receptação de serotonina (ISRS), que é uma classe do grupo dos antidepressivos",
+      "betterBefore": "07/07/2025",
+      "price":  "30.0",
+      "quantity": "50"
+    },
+    {
+      "id": "03",
+      "name": "Escitalopram 10mg 60 comprimidos",
+      "description": "É um medicamento da classe dos inibidores seletivos da receptação de serotonina (ISRS), que é uma classe do grupo dos antidepressivos",
+      "betterBefore": "20/08/2025",
+      "price":  "60.0",
+      "quantity": "50"
+    },
+    {
+      "id": "04",
+      "name": "Aspirina 500g 10 comprimidos",
+      "description": "Aspirina contém a substância ativa ácido acetilsalicílico, que pertence ao grupo de substâncias anti-inflamatórias não-esteroides, com propriedades anti-inflamatória (atua na inflamação), analgésica (atua na dor) e antitérmica (atua na febre)",
+      "betterBefore": "10/06/2025",
+      "price":  "12.59",
+      "quantity": "30"
+    },
+    {
+      "id": "05",
+      "name": "Paracetamol 750g 20 comprimidos",
+      "description": "O medicamento reduz a febre atuando no centro regulador da temperatura no Sistema Nervoso Central (SNC) e diminui a sensibilidade para a dor. Seu efeito tem início 15 a 30 minutos após a administração oral e permanece por um período de 4 a 6 horas",
+      "betterBefore": "26/02/2025",
+      "price":  "12.99",
+      "quantity": "70"
+    },
+    {
+      "id": "06",
+      "name": "Paracetamol 200g gotas 15ml",
+      "description": "O medicamento reduz a febre atuando no centro regulador da temperatura no Sistema Nervoso Central (SNC) e diminui a sensibilidade para a dor. Seu efeito tem início 15 a 30 minutos após a administração oral e permanece por um período de 4 a 6 horas",
+      "betterBefore": "10/02/2025",
+      "price":  "8,49",
+      "quantity": "20"
+    },
+    {
+      "id": "07",
+      "name": "Dipirona 500g 20 comprimidos",
+      "description": "Dipirona é um medicamento analgésico e antipirético, que age no organismo inibindo a produção de prostaglandinas, substâncias que causam dor e febre",
+      "betterBefore": "01/03/2025",
+      "price":  "7.75",
+      "quantity": "50"
+    },
+    {
+      "id": "08",
+      "name": "Amoxicilina 500mg 21 Cápsulas",
+      "description": "pertence ao grupo dos antibióticos penicilânicos. O medicamento é usado no tratamento de uma gama de infecções causadas por bactérias, que podem manifestar-se nos pulmões (pneumonia e bronquite), nas amígdalas (amigdalite), nos seios da face (sinusite), no trato urinário e genital, na pele e nas mucosas",
+      "betterBefore": "14/02/2025",
+      "price":  "18.95",
+      "quantity": "100"
+    },
+    {
+      "id": "09",
+      "name": "Aprazolan 1mg 30 Comprimidos",
+      "description": "Alprazolam é um medicamento utilizado frequentemente no tratamento de ansiedade e síndrome do pânico. Trata-se de um fármaco conhecido como benzodiazepínico. Estamos falando de medicamentos que produzem efeito ansiolítico",
+      "betterBefore": "20/01/2025",
+      "price":  "77.63",
+      "quantity": "70"
+    },
+    {
+      "id": "10",
+      "name": "Aprazolan 2mg 30 Comprimidos",
+      "description": "Alprazolam é um medicamento utilizado frequentemente no tratamento de ansiedade e síndrome do pânico. Trata-se de um fármaco conhecido como benzodiazepínico. Estamos falando de medicamentos que produzem efeito ansiolítico",
+      "betterBefore": "06/01/2025",
+      "price":  "129.39",
+      "quantity": "100"
+    },
+    {
+      "id": "11",
+      "name": "Dorflex 36 Comprimidos",
+      "description": "Dorflex é um medicamento que possui ação analgésica e relaxante muscular. É indicado para aliviar dores relacionadas à contratura muscular excessiva, como a dor de cabeça tensional (cefaleia tensional), e também as dores musculares (incluindo dor nas costas e nos membros inferiores)",
+      "betterBefore": "03/02/2025",
+      "price":  "17.99",
+      "quantity": "200"
+    },
+    {
+      "id": "12",
+      "name": "Dorflex 24 Comprimidos",
+      "description": "Dorflex é um medicamento que possui ação analgésica e relaxante muscular. É indicado para aliviar dores relacionadas à contratura muscular excessiva, como a dor de cabeça tensional (cefaleia tensional), e também as dores musculares (incluindo dor nas costas e nos membros inferiores)",
+      "betterBefore": "03/01/2025",
+      "price":  "15,29",
+      "quantity": "200"
+    },
+    {
+      "id": "13",
+      "name": "Ibuprofeno 400mg 10 Cápsulas Medley Cápsula",
+      "description": "Ibuprofeno é um medicamento analgésico e anti-inflamatório, indicado para o alívio de dores e febre decorrentes de gripes e resfriados. Também colabora com a redução de dores de garganta, de cabeça, de dente, dor nas costas, cólicas menstruais e dores musculares.",
+      "betterBefore": "17/06/2025",
+      "price":  "10,59",
+      "quantity": "90"
+    },
+    {
+      "id": "14",
+      "name": "Ibuprofeno 400mg Neo Química 10 Comprimidos",
+      "description": "Ibuprofeno é um medicamento analgésico e anti-inflamatório, indicado para o alívio de dores e febre decorrentes de gripes e resfriados. Também colabora com a redução de dores de garganta, de cabeça, de dente, dor nas costas, cólicas menstruais e dores musculares.",
+      "betterBefore": "17/04/2025",
+      "price":  "10,62",
+      "quantity": "150"
+    }
+    ]  
+}
