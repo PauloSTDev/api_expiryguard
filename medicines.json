@@ -111,6 +111,22 @@
       "betterBefore": "17/04/2025",
       "price":  10.62,
       "quantity": 150
+    },
+    {
+      "id": "15",
+      "name": "Ibuprofeno 400mg Neo Química 10 Comprimidos",
+      "description": "Ibuprofeno é um medicamento analgésico e anti-inflamatório, indicado para o alívio de dores e febre decorrentes de gripes e resfriados. Também colabora com a redução de dores de garganta, de cabeça, de dente, dor nas costas, cólicas menstruais e dores musculares.",
+      "betterBefore": "17/01/2025",
+      "price":  10.62,
+      "quantity": 150
+    },
+    {
+      "id": "16",
+      "name": "Sinvastatina",
+      "description": "A sinvastatina é um medicamento da classe das estatinas, muito indicado quando o assunto é redução do colesterol. Altas concentrações de colesterol LDL podem levar a danos nas artérias, potencialmente levando a complicações cardíacas (como infarto) e acidente vascular cerebral (AVC).",
+      "betterBefore": "09/12/2024",
+      "price":  5.50,
+      "quantity": 30
     }
     ]  
 }
