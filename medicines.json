@@ -5,7 +5,7 @@
       "name": "Aspirina 500g 20 comprimidos",
       "description": "Aspirina contém a substância ativa ácido acetilsalicílico, que pertence ao grupo de substâncias anti-inflamatórias não-esteroides, com propriedades anti-inflamatória (atua na inflamação), analgésica (atua na dor) e antitérmica (atua na febre)",
       "betterBefore": "10/08/2025",
-      "price":  20.0,
+      "price":  19.99,
       "quantity": 150
     },
     {
@@ -13,7 +13,7 @@
       "name": "Escitalopram 10mg 30 comprimidos",
       "description": "É um medicamento da classe dos inibidores seletivos da receptação de serotonina (ISRS), que é uma classe do grupo dos antidepressivos",
       "betterBefore": "07/07/2025",
-      "price":  30.0,
+      "price":  29.99,
       "quantity": 50
     },
     {
@@ -21,7 +21,7 @@
       "name": "Escitalopram 10mg 60 comprimidos",
       "description": "É um medicamento da classe dos inibidores seletivos da receptação de serotonina (ISRS), que é uma classe do grupo dos antidepressivos",
       "betterBefore": "20/08/2025",
-      "price":  60.0,
+      "price":  59.99,
       "quantity": 50
     },
     {
